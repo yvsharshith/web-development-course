@@ -1,0 +1,62 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+.big-title {
+    font-size: 5rem;
+    font-style: italic;
+    color: darkslateblue;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: auto;
+}
+
+.bg {
+    background-color: lightblue;
+}
+
+.dis {
+    font-size: 1rem;
+    background-color: teal;
+    color: cornsilk;
+    margin: auto;
+    padding: auto;
+}
+
+.col {
+    font-size: 1rem;
+    background-color: slateblue;
+    color: seashell;
+    margin: auto;
+    padding: auto;
+}
+
+.rcol {
+    font-size: 1rem;
+    background-color: sienna;
+    color: bisque;
+    margin: auto;
+    padding: auto;
+}
+
+.bgChange {
+    font-size: 1rem;
+    background-color: indigo;
+    color: aliceblue;
+    margin: auto;
+    padding: auto;
+}
+
+a {
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: bolder;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: thistle;
+}
+
+.changeColor {
+    color: darkolivegreen;
+}
