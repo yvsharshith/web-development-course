@@ -1,0 +1,146 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    color: cornflowerblue;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-size: 100px;
+}
+
+h2 {
+    color: cornflowerblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+h3 {
+    color: teal;
+    font-family: "Urbanist", sans-serif;
+    font-size: 50px;
+}
+
+h4 {
+    color: teal;
+    font-family: "Urbanist", sans-serif;
+    font-size: 30px;
+}
+
+p {
+    color: slategrey;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 18px;
+    text-wrap: inherit;
+}
+
+hr {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: 5%;
+    border: 10px dotted #EAF6F6;
+    border-bottom: none;
+}
+
+header {
+    padding: 100px;
+    background-color: lightgoldenrodyellow;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.imgs-header {
+    display: flex;
+    justify-content: center;
+}
+
+.imgs-header {
+    height: 250px;
+}
+
+/* About Section */
+
+.about-me {
+    margin-top: 40px;
+}
+
+.img-about-me {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+/* Skills row */
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill-row img {
+    width: 25%;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+/* Contact us */
+
+/* contact-me section */
+
+.contact-me h3 {
+    margin-top: 20px;
+}
+
+.contact-me p {
+    margin-top: 40px;
+}
+
+.contact-me button {
+    margin: 40px;
+    background-color: royalblue;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    font-family: "Urbanist", sans-serif;
+}
+
+.contact-me button:hover {
+    background-color: cornflowerblue;
+}
+
+footer {
+    text-align: center;
+    padding: 50px 0 20px;
+    background-color: lightsteelblue;
+}
+
+footer a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10px 20px;
+}
+
+footer p {
+    margin: 25px 0 15px;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+    font-weight: normal;
+}
